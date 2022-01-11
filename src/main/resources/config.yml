@@ -1,0 +1,15 @@
+allow-roll-many: true
+
+prices:
+  reroll-key: 50000
+  reroll-spawner: 75000
+  dupe-key: 50000
+  dupe-spawner: 75000
+
+jackpot:
+  chance: 5 # Chance out of 100
+  amount: 5 # The number of keys/spawners with jackpot
+
+chance-to-lose:
+  dupe: 10 # Chance out of 100 to not get anything from Try Your Luck
+  reroll: 10

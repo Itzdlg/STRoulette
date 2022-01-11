@@ -1,0 +1,19 @@
+spawners: # Ordered for fantasy
+  - CHICKEN
+  - PIG
+  - SHEEP
+  - COW
+  - ZOMBIE
+  - SKELETON
+  - WITCH
+  - BLAZE
+  - CREEPER
+  - PIGMAN
+  - IRON_GOLEM
+
+keys:
+  - Vote
+  - Epic
+  - Ultimate
+  - Omega
+  - Robot

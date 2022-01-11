@@ -1,0 +1,76 @@
+defaults:
+  CREEPER: 0
+  SKELETON: 0
+  ZOMBIE: 0
+  PIGMAN: 0
+  SILVERFISH: 0
+  BLAZE: 0
+  WITCH: 0
+  ENDERMITE: 0
+  PIG: 0
+  SHEEP: 0
+  COW: 0
+  CHICKEN: 0
+  IRON_GOLEM: 0
+  HORSE: 0
+  RABBIT: 0
+  VILLAGER: 0
+
+# Balancing for Tier 1 (fantasy)
+CHICKEN:
+  CHICKEN: 4
+  PIG: 3
+  SHEEP: 2
+  COW: 1
+  ZOMBIE: .25
+PIG:
+  CHICKEN: 3
+  PIG: 4
+  SHEEP: 3
+  COW: 2
+  ZOMBIE: .5
+SHEEP:
+  CHICKEN: 2
+  PIG: 3
+  SHEEP: 3
+  COW: 2
+  ZOMBIE: 1
+COW:
+  CHICKEN: 1
+  PIG: 2
+  SHEEP: 2
+  COW: 3
+  ZOMBIE: 1
+
+# Balancing for Tier 2 (fantasy)
+ZOMBIE:
+  ZOMBIE: 3
+  SKELETON: 2
+  WITCH: 1
+SKELETON:
+  ZOMBIE: 2
+  SKELETON: 3
+  WITCH: 2
+  BLAZE: .25
+WITCH:
+  ZOMBIE: 1
+  SKELETON: 2
+  WITCH: 2
+  BLAZE: 1
+
+# Balancing for Tier 3 (fantasy)
+BLAZE:
+  BLAZE: 3
+  CREEPER: 2
+  PIGMAN: .5
+CREEPER:
+  BLAZE: 2
+  CREEPER: 3
+  PIGMAN: .1
+
+# Balancing for Tier 4 (fantasy)
+PIGMAN:
+  PIGMAN: 3
+  IRON_GOLEM: 1
+IRON_GOLEM:
+  IRON_GOLEM: 1

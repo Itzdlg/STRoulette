@@ -1,0 +1,32 @@
+defaults:
+  Vote: 0
+  Epic: 0
+  Ultimate: 0
+  Omega: 0
+  Robot: 0
+
+Vote:
+  Vote: 4
+  Epic: 2
+  Ultimate: 1
+Epic:
+  Vote: 3
+  Epic: 4
+  Ultimate: 3
+  Omega: 1
+Ultimate:
+  Vote: 2
+  Epic: 3
+  Ultimate: 4
+  Omega: 2
+  Robot: 1
+Omega:
+  Vote: 1
+  Epic: 2
+  Ultimate: 3
+  Omega: 4
+  Robot: 2
+Robot:
+  Epic: 1
+  Ultimate: 2
+  Omega: 2
